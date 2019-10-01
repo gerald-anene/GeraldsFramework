@@ -1,0 +1,348 @@
+2018-04-15 12:48:14,067 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-15 12:48:14,238 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-15 12:48:14,241 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-15 12:48:14,241 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-15 12:48:14,241 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-15 12:48:14,242 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-15 12:48:14,266 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-15 12:48:14,318 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-15 12:48:14,319 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Given I am logged in to provident website - No matching Action found for "Given I am logged in to provident website"
+2018-04-15 12:48:14,319 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-15 12:48:14,319 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-15 12:48:14,319 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-15 12:48:14,319 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-15 12:48:14,321 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-15 12:49:34,738 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-15 12:49:36,687 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-15 12:49:44,456 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-15 12:49:45,173 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-15 12:49:45,748 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-15 12:49:46,467 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-15 12:49:47,168 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-15 12:49:48,741 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-15 12:50:00,262 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Given I am logged in to provident website - No matching Action found for "Given I am logged in to provident website"
+2018-04-15 12:50:04,816 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-15 12:50:07,197 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-15 12:50:11,792 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-15 12:50:20,381 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-15 12:59:58,466 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-15 12:59:58,485 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-15 12:59:58,489 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-15 12:59:58,489 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-15 12:59:58,490 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-15 12:59:58,490 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-15 12:59:58,499 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-15 12:59:58,506 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-15 12:59:58,507 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Given I am logged in to provident website - No matching Action found for "Given I am logged in to provident website"
+2018-04-15 12:59:58,507 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-15 12:59:58,507 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-15 12:59:58,507 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-15 12:59:58,508 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-15 12:59:58,510 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-15 13:08:21,491 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-15 13:08:21,512 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-15 13:08:21,582 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-15 13:08:21,583 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-15 13:08:21,584 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-15 13:08:21,584 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-15 13:08:21,595 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-15 13:08:21,602 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-15 13:08:21,603 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - FAILED: Given I am logged in to provident website - OpenQA.Selenium.DriverServiceNotFoundException: The chromedriver.exe file does not exist in the current directory or in a directory on the PATH environment variable. The driver can be downloaded at http://chromedriver.storage.googleapis.com/index.html.
+   at OpenQA.Selenium.DriverService.FindDriverServiceExecutable(String executableName, Uri downloadUrl)
+   at OpenQA.Selenium.Chrome.ChromeDriverService.CreateDefaultService()
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(ChromeOptions options)
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor()
+   at ProvidentTestProject.WebDriverPageOps.navigateToPage() in C:\Users\Gerald\WorkStation\CoveaSolutions\ProvidentTestProject\WebDriverPageOps.cs:line 15
+   at ProvidentProjects.generalSteps.LoginSteps.navigateToCarrersPage() in C:\Users\Gerald\WorkStation\CoveaSolutions\ProvidentProjects\generalSteps\LoginSteps.cs:line 18
+2018-04-15 13:08:21,604 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - SKIPPED: And I enter username - Previous step has failed
+2018-04-15 13:08:21,605 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - SKIPPED: And I enter password - Previous step has failed
+2018-04-15 13:08:21,607 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - SKIPPED: When I click login button - Previous step has failed
+2018-04-15 13:08:21,607 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - SKIPPED: Then I will be logged in - Previous step has failed
+2018-04-15 13:08:21,609 [TestRunnerThread] ERROR ProvidentProjects.Logging.LoggingStoryReporter - SCENARIO FAILED: Create New Quote [QE-1]
+2018-04-15 13:08:21,611 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-15 13:09:38,935 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-15 13:09:42,342 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-15 13:11:58,938 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-15 13:12:00,869 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-15 13:12:21,607 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-15 13:12:25,862 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-15 13:12:27,670 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-15 13:12:29,126 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-15 13:12:33,136 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-15 13:12:41,025 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-15 13:12:50,606 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - PASSED: Given I am logged in to provident website - 
+2018-04-15 13:13:08,303 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-15 13:13:13,917 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-15 13:13:20,319 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-15 13:13:27,542 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-15 13:15:52,857 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-15 13:57:17,958 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-15 13:57:17,977 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-15 13:57:23,332 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-15 13:57:23,333 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-15 13:57:23,333 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-15 13:57:23,334 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-15 13:57:23,337 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-15 13:57:23,387 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-15 13:57:23,388 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - PASSED: Given I am logged in to provident website - 
+2018-04-15 13:57:23,388 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-15 13:57:23,388 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-15 13:57:23,389 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-15 13:57:23,389 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-15 13:57:23,394 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-15 14:29:36,214 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-15 14:29:36,236 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-15 14:29:42,326 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-15 14:29:42,335 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-15 14:29:42,336 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-15 14:29:42,336 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-15 14:29:42,345 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-15 14:29:42,411 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-15 14:29:42,412 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - PASSED: Given I am logged in to provident website - 
+2018-04-15 14:29:42,412 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-15 14:29:42,412 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-15 14:29:42,413 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-15 14:29:42,413 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-15 14:29:42,423 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-15 14:31:31,712 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-15 14:31:31,736 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-15 14:31:37,059 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-15 14:31:37,062 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-15 14:31:37,063 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-15 14:31:37,063 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-15 14:31:37,072 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-15 14:31:37,124 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-15 14:31:37,124 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - PASSED: Given I am logged in to provident website - 
+2018-04-15 14:31:37,125 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-15 14:31:37,125 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-15 14:31:37,126 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-15 14:31:37,126 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-15 14:31:37,140 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-15 14:36:21,015 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-15 14:36:21,046 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-15 14:36:27,511 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-15 14:36:27,515 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-15 14:36:27,516 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-15 14:36:27,516 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-15 14:36:27,542 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-15 14:36:27,553 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-15 14:36:27,554 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - PASSED: Given I am logged in to provident website - 
+2018-04-15 14:36:27,554 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-15 14:36:27,555 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-15 14:36:27,555 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-15 14:36:27,555 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-15 14:36:27,558 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-15 14:54:59,479 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-15 14:54:59,498 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-15 14:55:05,937 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-15 14:55:05,938 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-15 14:55:05,938 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-15 14:55:05,939 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-15 14:55:05,945 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-15 14:55:05,995 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-15 14:55:05,995 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - PASSED: Given I am logged in to provident website - 
+2018-04-15 14:55:05,996 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-15 14:55:05,996 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-15 14:55:05,996 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-15 14:55:05,997 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-15 14:55:05,999 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-15 14:59:26,149 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-15 14:59:28,480 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-15 19:24:35,680 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-15 19:24:38,254 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-15 19:25:14,381 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-15 19:25:17,871 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-15 19:25:19,217 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-15 19:25:20,308 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-15 19:25:28,234 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-15 19:25:41,154 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-15 19:26:07,327 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - PASSED: Given I am logged in to provident website - 
+2018-04-15 19:26:22,041 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-15 19:26:27,489 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-15 19:26:34,123 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-15 19:26:41,084 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-15 19:28:22,478 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-15 19:50:59,511 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-15 19:50:59,532 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-15 19:51:04,671 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-15 19:51:04,672 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-15 19:51:04,672 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-15 19:51:04,672 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-15 19:51:04,675 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-15 19:51:04,689 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-15 19:51:04,689 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - PASSED: Given I am logged in to provident website - 
+2018-04-15 19:51:04,690 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-15 19:51:04,690 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-15 19:51:04,690 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-15 19:51:04,691 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-15 19:51:04,693 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-15 19:52:53,604 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-15 19:52:53,624 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-15 19:52:58,735 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-15 19:52:58,736 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-15 19:52:58,736 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-15 19:52:58,737 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-15 19:52:58,744 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-15 19:52:58,767 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-15 19:52:58,768 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - PASSED: Given I am logged in to provident website - 
+2018-04-15 19:52:58,769 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-15 19:52:58,769 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-15 19:52:58,769 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-15 19:52:58,769 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-15 19:52:58,772 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-15 20:23:50,045 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-15 20:23:50,066 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-15 20:23:55,882 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-15 20:23:55,892 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-15 20:23:55,892 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-15 20:23:55,893 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-15 20:23:55,900 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-15 20:23:55,927 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-15 20:23:55,930 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - PASSED: Given I am logged in to provident website - 
+2018-04-15 20:23:55,931 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-15 20:23:55,932 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-15 20:23:55,932 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-15 20:23:55,940 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-15 20:23:55,942 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-15 20:25:04,177 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-15 20:25:04,198 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-15 20:25:04,201 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-15 20:25:04,201 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-15 20:25:04,201 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-15 20:25:04,202 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-15 20:25:04,205 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-15 20:25:04,211 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-15 20:25:04,212 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Given I am logged in to provident website - No matching Action found for "Given I am logged in to provident website"
+2018-04-15 20:25:04,212 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-15 20:25:04,213 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-15 20:25:04,213 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-15 20:25:04,213 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-15 20:25:04,215 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-15 20:29:56,890 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-15 20:29:56,913 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-15 20:29:56,917 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-15 20:29:56,917 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-15 20:29:56,917 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-15 20:29:56,918 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-15 20:29:56,921 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-15 20:29:56,928 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-15 20:29:56,929 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Given I am logged in to provident website - No matching Action found for "Given I am logged in to provident website"
+2018-04-15 20:29:56,929 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-15 20:29:56,930 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-15 20:29:56,930 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-15 20:29:56,930 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-15 20:29:56,932 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-29 07:11:16,412 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-29 07:11:16,441 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-29 07:11:16,445 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-29 07:11:16,445 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-29 07:11:16,446 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-29 07:11:16,446 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-29 07:11:16,451 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-29 07:11:16,458 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-29 07:11:16,459 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Given I am logged in to provident website - No matching Action found for "Given I am logged in to provident website"
+2018-04-29 07:11:16,460 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-29 07:11:16,460 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-29 07:11:16,461 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-29 07:11:16,461 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-29 07:11:16,464 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-29 11:41:44,729 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-29 11:41:44,766 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-29 11:41:44,772 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-29 11:41:44,772 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-29 11:41:44,773 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-29 11:41:44,773 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-29 11:41:44,777 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-29 11:41:44,787 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-29 11:41:44,789 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Given I am logged in to provident website - No matching Action found for "Given I am logged in to provident website"
+2018-04-29 11:41:44,789 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-29 11:41:44,790 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-29 11:41:44,790 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-29 11:41:44,791 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-29 11:41:44,794 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-29 12:25:46,110 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-29 12:25:46,146 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-29 12:25:46,150 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-29 12:25:46,150 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-29 12:25:46,150 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-29 12:25:46,150 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-29 12:25:46,192 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-29 12:25:46,226 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-29 12:25:46,226 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Given I am logged in to provident website - No matching Action found for "Given I am logged in to provident website"
+2018-04-29 12:25:46,227 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-29 12:25:46,227 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-29 12:25:46,228 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-29 12:25:46,229 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-29 12:25:46,232 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-29 12:27:13,238 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-29 12:27:13,273 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-29 12:27:13,277 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-29 12:27:13,278 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-29 12:27:13,278 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-29 12:27:13,278 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-29 12:27:13,283 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-29 12:27:13,307 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-29 12:27:13,308 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Given I am logged in to provident website - No matching Action found for "Given I am logged in to provident website"
+2018-04-29 12:27:13,309 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-29 12:27:13,309 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-29 12:27:13,310 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-29 12:27:13,310 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-29 12:27:13,313 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-29 12:34:11,797 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-29 12:34:11,821 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-29 12:34:11,827 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-29 12:34:11,828 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-29 12:34:11,828 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-29 12:34:11,828 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-29 12:34:11,852 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-29 12:34:11,860 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-29 12:34:11,860 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Given I am logged in to provident website - No matching Action found for "Given I am logged in to provident website"
+2018-04-29 12:34:11,861 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-29 12:34:11,861 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-29 12:34:11,861 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-29 12:34:11,862 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-29 12:34:11,864 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-29 12:41:07,641 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-29 12:41:07,688 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-29 12:41:07,692 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-29 12:41:07,692 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-29 12:41:07,693 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-29 12:41:07,693 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-29 12:41:07,696 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-29 12:41:07,711 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-29 12:41:07,712 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Given I am logged in to provident website - No matching Action found for "Given I am logged in to provident website"
+2018-04-29 12:41:07,713 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-29 12:41:07,713 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-29 12:41:07,714 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-29 12:41:07,714 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-29 12:41:07,722 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-29 12:52:48,916 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-29 12:52:48,938 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-29 12:52:48,942 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-29 12:52:48,943 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-29 12:52:48,943 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-29 12:52:48,943 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-29 12:52:48,989 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-29 12:52:48,995 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-29 12:52:48,996 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Given I am logged in to provident website - No matching Action found for "Given I am logged in to provident website"
+2018-04-29 12:52:48,996 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter username - No matching Action found for "And I enter username"
+2018-04-29 12:52:48,996 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: And I enter password - No matching Action found for "And I enter password"
+2018-04-29 12:52:48,996 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: When I click login button - No matching Action found for "When I click login button"
+2018-04-29 12:52:48,997 [TestRunnerThread] WARN  ProvidentProjects.Logging.LoggingStoryReporter - PENDINGNOTIMPLEMENTED: Then I will be logged in - No matching Action found for "Then I will be logged in"
+2018-04-29 12:52:49,002 [TestRunnerThread] INFO  ProvidentProjects.Logging.ZapiStoryReporter - Writing UN-SUCCESSFUL execution result to Jira for scenario: Create New Quote [QE-1]
+2018-04-29 12:57:26,558 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-29 12:57:32,189 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-29 12:57:37,612 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-29 12:57:40,127 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-29 12:57:44,367 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-29 12:57:48,511 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-29 12:58:11,471 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-29 12:58:15,644 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
+2018-04-29 13:01:43,802 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Running scenario [Create New Quote [QE-1]]
+2018-04-29 13:01:46,513 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Given I am logged in to provident website
+2018-04-29 13:01:48,905 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter username
+2018-04-29 13:01:53,035 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - And I enter password
+2018-04-29 13:01:54,913 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - When I click login button
+2018-04-29 13:01:56,886 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Then I will be logged in
+2018-04-29 13:02:01,209 [TestRunnerThread] INFO  ProvidentProjects.generalSteps.GeneralSteps - Scenario execution complete: Create New Quote [QE-1]
+2018-04-29 13:02:04,318 [TestRunnerThread] INFO  ProvidentProjects.Logging.LoggingStoryReporter - Scenario finished [Create New Quote [QE-1]]
